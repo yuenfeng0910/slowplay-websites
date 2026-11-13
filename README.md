@@ -4,7 +4,7 @@
 
 ## 線上體驗
 
-- [版本比較首頁](https://yuenfeng0910.github.io/slowplay-websites/)
+- [影片與遊戲主網站](https://yuenfeng0910.github.io/slowplay-websites/)
 - [原版：慢慢探索](https://yuenfeng0910.github.io/slowplay-websites/original/)
 - [優化版 A：拾光探險／地圖闖關](https://yuenfeng0910.github.io/slowplay-websites/map/)
 - [優化版 B：知行放映室／影片任務工作台](https://yuenfeng0910.github.io/slowplay-websites/studio/)
@@ -54,3 +54,16 @@ original/        原版
 map/             地圖闖關版
 studio/          影片任務版
 ```
+
+## 黎明 RGB 小旅行遊戲整合
+
+- 遊戲專頁：https://yuenfeng0910.github.io/slowplay-websites/village/
+- 遊戲本體獨立網址：https://yuenfeng0910.github.io/limin-rgb-game/
+- 遊戲本體獨立儲存庫：https://github.com/yuenfeng0910/limin-rgb-game
+- 首頁與三個版本都新增遊戲入口；可在本站 iframe 遊玩、重新載入、全螢幕或另開完整遊戲。
+- 本站嵌入正式 GitHub Pages 遊戲，不再依賴原 trycloudflare 臨時通道。遊戲程式與必要照片、短片存放在獨立遊戲儲存庫。
+- 遊戲內進度保存在瀏覽器，由遊戲管理，不會自動同步 H5P 或本站印章。
+
+## 主首頁已使用正式影片與遊戲
+
+首頁已改為恩鳳提供的 15 秒影片與黎明 RGB 小旅行，不再以 H5P 官方範例或版型列表作為主要內容。影片由獨立遊戲儲存庫託管；先前版型入口保留在 versions/。原有 original/、map/、studio/ 路徑不刪除。
